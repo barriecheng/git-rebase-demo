@@ -1,1 +1,4 @@
 TEST 
+
+git config --global --get http.proxy
+git config --global http.proxy http://proxy.xxx.com.tw
